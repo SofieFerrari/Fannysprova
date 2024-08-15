@@ -1,3 +1,4 @@
+import React from 'react'
 import { Header } from "./components/Hero"
 import { Navbar } from "./components/Navbar"
 import { Contact } from "./components/Contact"
